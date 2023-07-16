@@ -18,7 +18,7 @@ export default function ViewRouter() {
       <Route path='/About' Component={About} />
       <Route path='/Resume' Component={Resume} />
       <Route path='/Projects' Component={Projects} />
-      <Route path='Contact' Component={Contact} />
+      <Route path='/Contact' Component={Contact} />
     </Routes>
   );
 }
