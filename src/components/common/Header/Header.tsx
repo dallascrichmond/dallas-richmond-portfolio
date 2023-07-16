@@ -7,15 +7,12 @@ import {
   Heading,
   Banner,
   StyledLink,
-  BannerLeft,
   BannerRight,
 } from './header.styles';
 
 export default function Header() {
   return (
     <HeaderWrapper>
-      <BannerLeft>
-      </BannerLeft>
       <Banner>
         <StyledLink href="/dallas-richmond-portfolio/">
           <Heading>Portfolio</Heading>

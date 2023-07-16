@@ -46,12 +46,6 @@ export const BannerRight = styled.div`
     }
 `;
 
-export const BannerLeft = styled.div`
-    min-width: 35pt;
-    display: flex;
-    padding: 0 0.5em;
-    margin: 0;
-`;
 export const Image = styled.img`
     width: 175px;
     top: 10px;
