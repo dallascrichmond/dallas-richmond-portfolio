@@ -39,7 +39,7 @@ export const Banner = styled.div`
 export const BannerRight = styled.div`
     min-width: 35pt;
     display: flex;
-    padding: 0 0.5em;
+    padding: 0 1em;
     margin: 0;
     @media (min-width: ${mq.tablet}){
         margin: 0 0 0 auto;
@@ -66,4 +66,9 @@ export const Image = styled.img`
 
 export const StyledLink = styled.a`
     text-decoration: none;
+    color: #FFFFFF;
+    padding: 1rem;
+    &:hover {
+        color: #C018D6;
+    }
 `;

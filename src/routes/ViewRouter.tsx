@@ -1,6 +1,6 @@
 /**
  * @summary Router to different views
- * @author Dallas Richmond
+ * @author  Dallas Richmond
  */
 import { Routes, Route } from 'react-router-dom';
 import { 
