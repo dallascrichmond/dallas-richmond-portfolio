@@ -1,6 +1,6 @@
 /**
  * @summary Home page of app
- * @author Dallas Richmond
+ * @author  Dallas Richmond
  */
 import { StyledP } from "./home.styles";
 export default function Home() {
