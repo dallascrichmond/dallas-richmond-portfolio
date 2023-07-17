@@ -22,16 +22,16 @@ export default function Header() {
         <StyledLink href="/dallas-richmond-portfolio/">
           Home
         </StyledLink>
-        <StyledLink href="/dallas-richmond-portfolio/About">
+        <StyledLink href="/dallas-richmond-portfolio/#/About">
           About Me
         </StyledLink>
-        <StyledLink href="/dallas-richmond-portfolio/Resume">
+        <StyledLink href="/dallas-richmond-portfolio/#/Resume">
           Resume
         </StyledLink>
-        <StyledLink href="/dallas-richmond-portfolio/Projects">
+        <StyledLink href="/dallas-richmond-portfolio/#/Projects">
           Projects
         </StyledLink>
-        <StyledLink href="/dallas-richmond-portfolio/Contact">
+        <StyledLink href="/dallas-richmond-portfolio/#/Contact">
           Contact
         </StyledLink>
       </BannerRight>
