@@ -14,7 +14,7 @@ export const StyledLink = styled.a<ButtonProps>`
   display: inline-block;
   font-size: 16px;
   font-weight: bold;
-  margin: 2px 20px;
+  margin: 10px 20px;
   transition-duration: 0.4s;
   cursor: pointer;
   width: 100px;
